@@ -1,0 +1,19 @@
+Atue como um especialista em N8N.
+
+Crie uma automação para registrar leads e novos agendamentos recebidos por formulário.
+
+Público:
+Equipe de atendimento do estúdio e clientes.
+
+Ferramentas envolvidas:
+Google Forms (Webhook), Google Sheets e Gmail (ou WhatsApp API).
+
+Fluxo:
+1. Receber os dados do cliente submetidos pelo formulário.
+2. Validar e registrar automaticamente as informações numa planilha do Google Sheets.
+3. Enviar uma mensagem de confirmação de agendamento para o cliente.
+
+Regras:
+Ignorar subvenções ou cadastros que não contenham um e-mail ou número de telefone válido.
+
+Explique quais nós do N8N devem ser utilizados e a lógica de funcionamento do workflow.
